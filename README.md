@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhano atualmente HTML, CSS, JAVA SCRIPT
 - 🌱 Aprendendo atualmente: Java script
-- 📫 How to reach me: Gmail 
+- 📫 Como entrar em contato: Gmail 
 - 😄 Pronomes: ele/dele
 - 🧒 Idade: 15 Anos
 - 🇧🇷 Brasileiro
